@@ -1,11 +1,10 @@
 # Babel
 
-The project consists in a client/server architecture voice over IP application, similar to Skype or TeamSpeak  
-The project is OS independent. It compiles and runs in a similar manner on Unix system and  
+The project consists of a voice over IP application of client/server architecture, similar to Skype or TeamSpeak.
+The project is OS independent. It compiles and runs in a similar manner on Unix systems and
 Windows systems.  
 
-The Babel project aims to create an SIP-like Voice Over IP (VOIP) protocol. It MUST be usable over the
-Internet (no multicast or anything LAN specific).
+The Babel project aims to create a SIP-like Voice Over IP (VOIP) protocol. It MUST be usable over the Internet (no multicast or anything LAN specific).
 
 The protocol is a client/server protocol but voice transport is client to client (UDP)
 
