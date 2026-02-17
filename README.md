@@ -1,5 +1,7 @@
 # Babel
 
+**THIS IS NOT SQL INJECTION SAFE CODE, IT WAS A TEST PROJECT NOT FOCUSING ON PRODUCTION IN ANY WAY**
+
 The project consists of a voice over IP application of client/server architecture, similar to Skype or TeamSpeak.
 The project is OS independent. It compiles and runs in a similar manner on Unix systems and
 Windows systems.  
@@ -28,3 +30,4 @@ ln -s /usr/lib64/pkgconfig/ ~/.conan/data/libalsa/1.1.9/_/_/package/d48130e0dd76
 ## Documentation
 
 A code documentation can be built with the Doxyfile by a single doxygen command.
+
